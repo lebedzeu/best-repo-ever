@@ -1,2 +1,3 @@
 # best-repo-ever
-# or is it?? WTF DOOD CONFLICT
+# or is it?? It's fine.
+# fugggg
